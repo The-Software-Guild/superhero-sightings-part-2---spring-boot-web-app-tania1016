@@ -1,0 +1,13 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ð¶ÁŠ8“È˜žÍ0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µï¥Ÿûÿÿÿÿ8“È˜žÍ0
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß’ïœ8“È˜žÍ0
+r	java:S116"VRename this field "sighting_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·´àý8 È˜žÍ0
+y	java:S116	"XRename this field "sighting_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹øç¿þÿÿÿÿ8 È˜žÍ0
+w	java:S116"VRename this field "member_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÐÏ­ûÿÿÿÿ8 È˜žÍ0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§•ª™8£È˜žÍ0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ð¶ÁŠ8¤È˜žÍ0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÉ‘Á8¥È˜žÍ0
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µï¥Ÿûÿÿÿÿ8¥È˜žÍ0
+j	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¡Î©8§È˜žÍ0
+j	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß’ïœ8¨È˜žÍ0

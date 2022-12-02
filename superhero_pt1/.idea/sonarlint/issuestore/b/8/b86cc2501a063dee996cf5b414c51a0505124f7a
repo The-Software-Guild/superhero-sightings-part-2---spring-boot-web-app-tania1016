@@ -1,0 +1,26 @@
+
+n
+java:S1192<"RDefine a constant instead of duplicating this literal "redirect:/members" 3 times.(”Éı$8õôúÍ0
+d
+java:S1192."GDefine a constant instead of duplicating this literal "org_id" 4 times.(Ùµúˆ8öôúÍ0
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍªÄÙüÿÿÿÿ8öôúÍ0
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÕŞ¿8öôúÍ0
+m	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùµúˆ8öôúÍ0
+m	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºğ°°8öôúÍ0
+r	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ˆÖ¥ÿÿÿÿÿ8öôúÍ0
+m	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àµŠØ8öôúÍ0
+m	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÑÑÜ8öôúÍ0
+r	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿœ–ˆùÿÿÿÿ8öôúÍ0
+m	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‹è¦8öôúÍ0
+r	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿœ–ˆùÿÿÿÿ8öôúÍ0
+m	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùµúˆ8öôúÍ0
+{
+java:S1488B"^Immediately return this expression instead of assigning it to the temporary variable "member".(ÏÔøæ8÷ôúÍ0
+|
+java:S1488H"_Immediately return this expression instead of assigning it to the temporary variable "members".(‡Æ‹ÿ8÷ôúÍ0
+|
+java:S1488N"_Immediately return this expression instead of assigning it to the temporary variable "members".(ºÇü†8÷ôúÍ0
+W
+java:S1854\":Remove this useless assignment to local variable "org_id".(©‹è¦8õúÍ0
+H
+java:S1481\"+Remove this unused "org_id" local variable.(©‹è¦8õúÍ0

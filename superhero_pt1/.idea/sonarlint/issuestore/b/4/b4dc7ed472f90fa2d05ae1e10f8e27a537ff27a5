@@ -1,0 +1,21 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Þç£
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™±ô²
+f	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¿ŒÔ
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñýçô
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÎŸ‘ÿÿÿÿÿ
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÎŸ‘ÿÿÿÿÿ
+f	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Í„Å
+f	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Í„Å
+{
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "memberSighting".(É÷’
+z
+java:S1488‰"cImmediately return this expression instead of assigning it to the temporary variable "membersList".(ìïãØ
+q
+java:S2259*"["NullPointerException" will be thrown when invoking method "addSightingToMemberSighting()".(šôÕ¾
+q
+java:S2259h"["NullPointerException" will be thrown when invoking method "addSightingToMemberSighting()".(šôÕ¾
+—
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ú¿ŒÔ
+—
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñýçô

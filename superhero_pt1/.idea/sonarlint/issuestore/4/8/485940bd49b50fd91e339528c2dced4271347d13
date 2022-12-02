@@ -1,0 +1,11 @@
+
+d
+java:S1192;"GDefine a constant instead of duplicating this literal "org_id" 3 times.(™”öª8ÿûüÍ0
+z
+java:S11921"XDefine a constant instead of duplicating this literal "redirect:/organizations" 3 times.(‚îôºúÿÿÿÿ8ÿûüÍ0
+l	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ì¨8€üüÍ0
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸşÉò8€üüÍ0
+m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çûí8€üüÍ0
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÃ€‡ûÿÿÿÿ8ĞÊ´ùÌ0
+m	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùµúˆ8ĞÊ´ùÌ0
+m	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùµúˆ8üüÍ0
